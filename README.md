@@ -34,7 +34,7 @@ Motor Rentals is a desktop application built with **Java Swing** for managing ve
 - MySQL Connector/J JDBC driver
 - A MySQL database configured for Motor Rentals (schema and tables to be created)
 
-## Screenshots
+## 🖼️Screenshots
 
 Here are the UI ScreenShots: [Preview](https://excalidraw.com/#json=PherneqNwlOne0TA1rwNC,vDk0EIlIPff9fXqEiKRNqQ)
 
