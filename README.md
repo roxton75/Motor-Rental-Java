@@ -194,7 +194,7 @@ END;
 
 ***
 
-## Usage
+## 💻Usage
 
 - Login with your credentials.
 - Navigate between Inventory, Bookings, Customer Details panels using bottom navigation buttons.
@@ -205,19 +205,19 @@ END;
 
 ***
 
-## Contributing
+## 🤝🏼Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements or bug fixes.
 
 
 
-## License
+## 🪪License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ***
 
-## Contact
+## 📧Contact
 
 Created by [roxton75](https://github.com/roxton75) - feel free to reach out for questions or collaboration.
 
