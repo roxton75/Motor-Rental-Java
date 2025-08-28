@@ -226,4 +226,5 @@ Created by [roxton75](https://github.com/roxton75) - feel free to reach out for 
 
 ## 📌Note:
 - Make sure to user Intellije IDEA as an IDE to run this project.
-- Before running complete the database Prerequisites. 
+- Before running complete the database Prerequisites.
+- The Ui is custome made and also uses set bound in some modules please make sure if you are using in a small screen to lower the frame size according to your convinence.
