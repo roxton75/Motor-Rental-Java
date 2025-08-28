@@ -36,7 +36,7 @@ Motor Rentals is a desktop application built with **Java Swing** for managing ve
 
 ## Screenshots
 
-Here are the UI ScreenShots: [Preview](https://excalidraw.com/#json=akcQIkqto2wxRwOQtq4jn,LuT8eWs6k1P0gKs5ATIlLQ)
+Here are the UI ScreenShots: [Preview](https://excalidraw.com/#json=PherneqNwlOne0TA1rwNC,vDk0EIlIPff9fXqEiKRNqQ)
 
 ## 🚀Setup and Running
 
