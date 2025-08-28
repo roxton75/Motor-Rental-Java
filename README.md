@@ -9,7 +9,7 @@ Motor Rentals is a desktop application built with **Java Swing** for managing ve
 
 🔑 Login & Registration with role-based access (Admin / User)
 
-🖥️ Modern UI with custom styled buttons, text fields, and dialogs
+🖥️ Modern UI with custom-styled buttons, text fields, and dialogs
 
 🚙 Vehicle Management: Add, Update, Delete, Book Vehicles
 
@@ -218,6 +218,6 @@ Created by [roxton75](https://github.com/roxton75) - feel free to reach out for 
 
 
 ## 📌Note:
-- Make sure to use Intellije IDEA as an IDE to run this project.
-- Before running complete the database Prerequisites.
+- Make sure to use IntelliJ IDEA as an IDE to run this project.
+- Before running, complete the database Prerequisites.
 - The UI is custom-made and also uses `setbounds()` in some modules. Please make sure that if you are using a small screen, you lower the frame size according to your convenience.
