@@ -191,7 +191,6 @@ END;
     ```bash
     java -jar MotorRentals.jar
     ```
-
 ***
 
 ## 💻Usage
@@ -203,7 +202,6 @@ END;
 - Delete or edit bookings/customers using action buttons.
 - Logs and confirmations help ensure safe data operations.
 
-***
 
 ## 🤝🏼Contributing
 
@@ -215,7 +213,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-***
 
 ## 📧Contact
 
