@@ -11,7 +11,7 @@ Motor Rentals is a desktop application built with **Java Swing** for managing ve
 
 🖥️ Modern UI with custom styled buttons, text fields, and dialogs
 
-🚙 Vehicle Management: Add, Update, Delete, Book Cars
+🚙 Vehicle Management: Add, Update, Delete, Book Vehicles
 
 📊 Database Integration with MySQL/SQLite
 
