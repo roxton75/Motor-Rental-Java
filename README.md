@@ -19,11 +19,6 @@ Motor Rentals is a desktop application built with **Java Swing** for managing ve
 
 🔒 Logout Handling (closes related windows when logging out)
 
-## Screenshots
-
-*(Add screenshots of your running app here, e.g. login screen, inventory management, bookings panel)*
-
-***
 
 ## 🛠️ Technologies Used
 - Java 17+
@@ -39,6 +34,9 @@ Motor Rentals is a desktop application built with **Java Swing** for managing ve
 - MySQL Connector/J JDBC driver
 - A MySQL database configured for Motor Rentals (schema and tables to be created)
 
+## Screenshots
+
+Here are the UI ScreenShots: [Preview](https://excalidraw.com/#json=akcQIkqto2wxRwOQtq4jn,LuT8eWs6k1P0gKs5ATIlLQ)
 
 ## 🚀Setup and Running
 
