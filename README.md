@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧Contact
 
-Created by [roxton75](https://github.com/roxton75) - feel free to reach out for questions or collaboration.
+Created by **🧑‍💻**[roxton75](https://github.com/roxton75) - feel free to reach out for questions or collaboration.
 
 
 ## 📌Note:
